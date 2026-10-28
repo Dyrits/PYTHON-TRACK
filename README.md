@@ -1,4 +1,25 @@
-# Python
-This is a new repository for the dedicated [track](https://exercism.org/tracks/python) on [Exercism](https://exercism.org/).
+# Python Track
 
-A legacy repository is available [here](https://github.com/Dyrits/-ARCHIVE-EXERCISM/tree/master/python).
+Solutions to the [Exercism Python track](https://exercism.org/tracks/python) exercises.
+
+## About The Project
+
+This repository gathers work on the dedicated Python track on [Exercism](https://exercism.org/), one directory per exercise.
+
+From the original README: a legacy repository is available at [-ARCHIVE-EXERCISM](https://github.com/Dyrits/-ARCHIVE-EXERCISM/tree/master/python).
+
+## Built With
+
+- Python
+
+## Getting Started
+
+Each exercise lives in its own directory, following the structure provided by Exercism (including its tests).
+
+## License
+
+No license file is present in this repository.
+
+## Contact
+
+Dylan J. Gerrits - [GitHub](https://github.com/Dyrits)
